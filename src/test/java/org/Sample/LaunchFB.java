@@ -15,11 +15,5 @@ public class LaunchFB extends BaseClass{
 		ToClick(driver.findElement(By.name("login")));
 		
 		
-		System.out.println();
-		
-		System.out.println();
-		
-		System.out.print("akjshdkjas");
-		
 	}
 }
