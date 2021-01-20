@@ -10,8 +10,15 @@ public class newSAmple {
 		// TODO Auto-generated method stub
 
 	}
-	private void add2() {
+	private void lol() {
 		// TODO Auto-generated method stub
 
 	}
+	private void lolmax() {
+		
+	}
+	private void add2() {
+		
+	}
+
 }
